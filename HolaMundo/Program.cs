@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("prueba 1");
+Console.WriteLine("prueba 2");
