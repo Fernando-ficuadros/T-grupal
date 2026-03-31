@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\HolaMundo\\HolaMundo.csproj": {}
+    "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\resta\\resta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\HolaMundo\\HolaMundo.csproj": {
+    "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\resta\\resta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\HolaMundo\\HolaMundo.csproj",
-        "projectName": "HolaMundo",
-        "projectPath": "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\HolaMundo\\HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\resta\\resta.csproj",
+        "projectName": "resta",
+        "projectPath": "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\resta\\resta.csproj",
         "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\HolaMundo\\obj\\",
+        "outputPath": "C:\\Users\\UPN\\Downloads\\T_grupal\\T-grupal\\resta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
