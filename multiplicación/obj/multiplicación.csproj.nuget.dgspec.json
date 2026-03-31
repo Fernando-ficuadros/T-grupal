@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\HolaMundo\\HolaMundo.csproj": {}
+    "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\multiplicación\\multiplicación.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\HolaMundo\\HolaMundo.csproj": {
+    "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\multiplicación\\multiplicación.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\HolaMundo\\HolaMundo.csproj",
-        "projectName": "HolaMundo",
-        "projectPath": "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\HolaMundo\\HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\multiplicación\\multiplicación.csproj",
+        "projectName": "multiplicación",
+        "projectPath": "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\multiplicación\\multiplicación.csproj",
         "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\HolaMundo\\obj\\",
+        "outputPath": "C:\\Users\\UPN\\Downloads\\T_3grupal\\T-grupal\\multiplicación\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
